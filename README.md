@@ -1,2 +1,2 @@
-# Steiner-Tree---CSE462-Algorithm-Engineering-Sessional
-Implementations of steiner tree algorithms
+# Steiner Tree - CSE462 Algorithm Engineering Sessional
+Implementations of Steiner tree algorithms
